@@ -2,12 +2,16 @@
 
 I am currently studying Computer Science at Universidade Federal de Uberlândia (UFU). 
 
-# Languages
-- Languages I speak: Brazilian Portuguese and English  
-- Currently learning: German and Spanish  
+# Natural languages
+- Languages I already speak: Brazilian Portuguese (Natively) and English  
+- Currently learning German and Spanish  
 
-# Programming Skills
-- C, C++ and Qt
-- JavaScript, TypeScript and React
+# Programming languages I have confidence on:
+- C, C++
+- JavaScript, TypeScript
 - Java, Kotlin
 - Python
+
+# Frameworks in which I have experience:
+- Qt with C an C++
+- GLFW with Python
