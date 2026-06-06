@@ -13,5 +13,5 @@ I am currently studying Computer Science at Universidade Federal de Uberlândia 
 - Python
 
 # Frameworks in which I have experience:
-- Qt with C an C++
-- GLFW with Python
+- Qt with C and C++
+- GLFW and PyGame with Python
